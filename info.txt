@@ -1,5 +1,19 @@
 Enlaces de interes:
 
+
+Diseños similares:
+-----------------
+
+- OpenVentolone:
+http://www.openventolone.com/2012/01/12/anemometro-e-datalogger-datalogger-and-anemometer/
+
+
+Componentes:
+-----------
+
 - Arduino Logger:
 http://arduino.cc/en/Tutorial/Datalogger
+
+- Real Time Clock: DS1307RTC
+http://www.pjrc.com/teensy/td_libs_DS1307RTC.html
 
